@@ -13,4 +13,4 @@
 
 You can access it with this <a href="https://binfordec-gabrielbarros.vercel.app/">link</a>
 
-Developed by <a href="https://github.com/gabrieldebarross/binarytodecimal">Gabriel Barros - Sorrab.</a>
+Developed by <a href="https://github.com/gabrieldebarross">Gabriel Barros - Sorrab.</a>
