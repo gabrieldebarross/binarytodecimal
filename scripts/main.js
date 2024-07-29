@@ -24,7 +24,6 @@ document.addEventListener('DOMContentLoaded', () => {
         if(!verificarEntrada(inputValue)){
             resultado.textContent = "Sequência inválida 😕";
             resultado.classList.add('error');
-            input.classList.add('error');
             // alert('Perguntas: A quantidade de digitos está correta? - Está em Formato 0 e 1? - Bin 🤨');
             return;
         } 
