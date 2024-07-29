@@ -9,7 +9,7 @@
 * JAVASCRIPT
 
 # 🖥 Demo
-
+![deploy-bindec](https://github.com/user-attachments/assets/4998c0e4-6346-4ecb-97bc-79f30dda5303)
 
 You can access it with this <a href="https://cep-gabrielbarros.vercel.app/">link</a>
 
